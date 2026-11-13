@@ -1,0 +1,5 @@
+id_cliente,nombre,apellido,correo,ciudad
+1,Carlos,Mendoza,carlos.mendoza@email.com,Quito
+2,Maria,Gomez,maria.gomez@email.com,Guayaquil
+3,Luis,Torres,luis.torres@email.com,Cuenca
+4,Ana,Suarez,ana.suarez@email.com,Milagro
