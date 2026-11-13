@@ -1,0 +1,5 @@
+id_venta,fecha,producto,cantidad,precio_unitario,total
+101,2026-11-01,Laptop Dell,2,850.00,1700.00
+102,2026-11-02,Mouse Inalambrico,5,25.50,127.50
+103,2026-11-03,Monitor 24 pulgadas,1,210.00,210.00
+104,2026-11-04,Teclado Mecanico,3,65.00,195.00
